@@ -1,6 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////
 
-/* CE1107/CZ1107 Data Structures
 Assignment 1 - Linked List Questions
 Purpose: Implementing the required functions for Question 2 */
 
